@@ -19,8 +19,11 @@ h2 a {
 }
 
 .page-header {
-    color: #C25100;
     background-color: #c251005f;
     padding: 20px;
-    
+}
+
+.page-header a{
+    text-decoration: none;
+    color: #C25100;
 }
