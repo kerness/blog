@@ -1,0 +1,26 @@
+h2 a {
+    color: #C25100;
+    text-decoration: none;
+}
+
+.container .post {
+    padding: 10px;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.443);
+    width: 50%;
+
+}
+
+.container {
+    margin-left: 0;
+}
+
+.container time {
+    color: grey;
+}
+
+.page-header {
+    color: #C25100;
+    background-color: #c251005f;
+    padding: 20px;
+    
+}
